@@ -1,15 +1,16 @@
 body{
   color: #828282;
   text-align: center;
-  margin: 63px auto 0;
+  font-family: 'Open Sans';
+  margin: 0;
 
 }
 
 #main {
   width: 626px;
-  margin: auto;
-
+  margin: 63px auto 0;
 }
+
 #main img {
   margin: 0 auto 27px;
   width: 350px;
@@ -21,17 +22,14 @@ font-size: 32px;
 line-height: 40.45px;
 color: #3F3D56;
 margin-bottom: 27px;
-font-weight: normal;
+font-weight:normal;
 }
-
 
 #main p{
 font-size: 15px;
 line-height: 22px;
 margin-bottom: 27px;
-font-family: 'Open Sans';
 }
-
 
  span {
   color:#EE24FF;
@@ -43,33 +41,43 @@ strong {
 
 
 #footer {
-  margin-bottom: 41.83px;
+  
   
 }
 
 #footer a {
 
-font-style: normal;
 font-size: 15px;
 font-weight: 700;
 color: #3F3D56;
-line-height: 147.68%;
 text-decoration: none;
 
+
 }
+
 #line{
 width: 391px;
 height: 0px;
 border: 1px solid #ECEFF2;
 margin: 39px auto 16px;
+
 }
 
 #footer a+a {
 
 margin-left: 42px;
 
+
 }
 
-#wave {
+#footer img {
+  
+  margin-top: 41.83px;
+  vertical-align: bottom;
+  width: 100%;
+  height: 117px;
+  padding-bottom: 0px;
+  background: #3F3D56;
 
+ 
 }
